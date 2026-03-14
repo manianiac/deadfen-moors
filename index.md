@@ -1,5 +1,3 @@
-# The Deadfen Moors: 
-
 Welcome to the Deadfen Moors! This guide contains the mythic history, cultures, and factions of the setting to help you immerse yourself in the world.
 
 ---

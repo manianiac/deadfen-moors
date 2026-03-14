@@ -1,0 +1,46 @@
+{
+  "title": "The Deadfen Moors",
+  "description": "Mythic history, cultures, and factions of the Deadfen Moors setting.",
+  "author": "wbarron",
+  "showSidebar": true,
+  "nav": {
+    "title": "The Deadfen Moors",
+    "links": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "Explore",
+        "subItems": [
+          {
+            "name": "Characters",
+            "href": "/The Deadfen Moors/Characters"
+          },
+          {
+            "name": "Hexes",
+            "href": "/The Deadfen Moors/Hexes"
+          },
+          {
+            "name": "Locations",
+            "href": "/The Deadfen Moors/Locations"
+          },
+          {
+            "name": "Lore",
+            "href": "/The Deadfen Moors/Lore"
+          }
+        ]
+      }
+    ]
+  },
+  "sidebar": {
+    "orderBy": "title",
+    "contentHide": [
+      "/Archive",
+      "/Assets",
+      "/.scripts",
+      "/.obsidian",
+      "/.git"
+    ]
+  }
+}
