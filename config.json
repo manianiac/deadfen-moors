@@ -1,4 +1,7 @@
 {
+  "theme": {
+    "defaultMode": "system"
+  },
   "title": "The Deadfen Moors",
   "description": "Mythic history, cultures, and factions of the Deadfen Moors setting.",
   "author": "wbarron",
