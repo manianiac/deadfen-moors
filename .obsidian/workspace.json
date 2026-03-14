@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "The Deadfen Moors/Characters/Namtar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Namtar"
             }
           }
         ]
@@ -199,8 +199,14 @@
   },
   "active": "77973b3c4b626c9e",
   "lastOpenFiles": [
+    "The Deadfen Moors/Locations/index.md",
+    "The Deadfen Moors/Lore/index.md",
+    "The Deadfen Moors/Characters/index.md",
+    "2026-03-14.md",
+    "Untitled.canvas",
+    "index.md",
+    "config.json",
     "The Deadfen Moors/Player Gazetteer.md",
-    "Welcome.md",
     "The Deadfen Moors/confing.json.md",
     "The Deadfen Moors/The Deadfen Moors.md",
     "N.10.md",
@@ -221,10 +227,6 @@
     "The Deadfen Moors/Lore/Religions/The Children of Ash.md",
     "The Deadfen Moors/Lore/Religions/The Ascendant Sky.md",
     "The Deadfen Moors/Lore/Religions/The Anchorite Brotherhood.md",
-    "The Deadfen Moors/Characters/Vortigern.md",
-    "The Deadfen Moors/Characters/Sir Galen.md",
-    "The Deadfen Moors/Rumors.md",
-    "The Deadfen Moors/Lore/Creatures/Ash-Rats.md",
     "The Deadfen Moors/Lore/Creatures",
     "The Deadfen Moors/Lore/Factions",
     "Archive",
@@ -236,7 +238,6 @@
     "Assets/Deadfen Moors Labelled.png",
     "The Deadfen Moors/Hexes/update_hex_tags.py",
     "The Deadfen Moors/Hexes/generate_hex_files.py",
-    "The Deadfen Moors/Hexes/fix_table.py",
     "Assets/Gundinul_Unlabeled.PNG",
     "Map Files/Untitled Hexfriend.png"
   ]

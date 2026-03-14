@@ -1,4 +1,15 @@
-Welcome to the Deadfen Moors! This guide contains the mythic history, cultures, and factions of the setting to help you immerse yourself in the world.
+---
+showHero: true
+title: "The Deadfen Moors"
+description: "A dark and treacherous landscape where ancient secrets lie buried beneath the fog. This guide contains the mythic history, cultures, and factions of the setting to help you immerse yourself in the world."
+cta:
+  - label: "Start Exploring"
+    href: "/The Deadfen Moors/Lore"
+  - label: "View Characters"
+    href: "/The Deadfen Moors/Characters"
+---
+
+Welcome to the Deadfen Moors! 
 
 ---
 

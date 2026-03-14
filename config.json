@@ -21,10 +21,6 @@
             "href": "/The Deadfen Moors/Characters"
           },
           {
-            "name": "Hexes",
-            "href": "/The Deadfen Moors/Hexes"
-          },
-          {
             "name": "Locations",
             "href": "/The Deadfen Moors/Locations"
           },
@@ -39,6 +35,7 @@
   "sidebar": {
     "orderBy": "title",
     "contentHide": [
+      "/The Deadfen Moors/Hexes",
       "/Archive",
       "/Assets",
       "/.scripts",
