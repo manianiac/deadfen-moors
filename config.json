@@ -30,17 +30,19 @@
     ]
   },
   "sidebar": {
-    "orderBy": "title",
-    "contentHide": [
-      "/The+Deadfen+Moors/Hexes",
-      "/Archive",
-      "/Assets",
-      "/.scripts",
-      "/.obsidian",
-      "/.git"
-    ]
+    "orderBy": "title"
   },
   "theme": {
-    "defaultMode": "dark"
-  }
+    "theme": "superstack",
+    "defaultMode": "dark",
+    "showModeSwitch": true
+  },
+  "contentHide": [
+    "/The+Deadfen+Moors/Hexes",
+    "/Archive",
+    "/Assets",
+    "/.scripts",
+    "/.obsidian",
+    "/.git"
+  ]
 }
