@@ -1,0 +1,10 @@
+{
+  "flowershowToken": "fs_pat_0WjdP1tY2WZ2Tv9IG4zU-CJjdoNK86S75BHpXeoPgmI",
+  "siteName": "deadfen-moors",
+  "rootDir": "",
+  "excludePatterns": [
+    "\\.excalidraw(\\.(md|excalidraw))?$",
+    "^Assets/"
+  ],
+  "lastSeenVersion": ""
+}
