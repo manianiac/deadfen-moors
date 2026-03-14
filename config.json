@@ -15,34 +15,33 @@
         "subItems": [
           {
             "name": "Characters",
-            "href": "/The+Deadfen+Moors/Characters"
+            "href": "/The Deadfen Moors/Characters"
           },
           {
             "name": "Locations",
-            "href": "/The+Deadfen+Moors/Locations"
+            "href": "/The Deadfen Moors/Locations"
           },
           {
             "name": "Lore",
-            "href": "/The+Deadfen+Moors/Lore"
+            "href": "/The Deadfen Moors/Lore"
           }
         ]
       }
     ]
   },
   "sidebar": {
-    "orderBy": "title"
+    "orderBy": "title",
+    "contentHide": [
+      "/The Deadfen Moors/Hexes",
+      "/Archive",
+      "/Assets",
+      "/.scripts",
+      "/.obsidian",
+      "/.git"
+    ]
   },
   "theme": {
-    "theme": "superstack",
     "defaultMode": "dark",
     "showModeSwitch": true
-  },
-  "contentHide": [
-    "/The+Deadfen+Moors/Hexes",
-    "/Archive",
-    "/Assets",
-    "/.scripts",
-    "/.obsidian",
-    "/.git"
-  ]
+  }
 }
