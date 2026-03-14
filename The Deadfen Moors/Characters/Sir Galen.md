@@ -8,5 +8,5 @@ A [[God-Kings|God-King]] era paladin who wielded flawless, un-tarnished magical 
 
 - **Religion:** [[The Silver Luminaries]]
 - **Associated Locations**:
-  - [[C.4]] Field of Sir Galen the Bright
-  - [[K.10]] Sir Galen the Silver
+  - [[C.4]] [[Field of Sir Galen the Bright]]
+  - [[K.10]] [[Sir Galen the Silver]]

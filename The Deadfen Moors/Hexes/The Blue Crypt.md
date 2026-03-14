@@ -9,7 +9,7 @@ tags: [hex/O-9, terrain/farmland]
 
 
 ## Main POI: The Blue Crypt
-- The Blue Crypt is a partially submerged mausoleum constructed of pale grey stone, stained a deep azure by mineral deposits in the surrounding soil.  The structure is approximately 40 feet in height, with a collapsed western facade revealing crumbling statues of forgotten nobles.  Water constantly trickles through the ruined walls, feeding a stagnant, unnaturally blue pool at its base.
+- [[The Blue Crypt]] is a partially submerged mausoleum constructed of pale grey stone, stained a deep azure by mineral deposits in the surrounding soil.  The structure is approximately 40 feet in height, with a collapsed western facade revealing crumbling statues of forgotten nobles.  Water constantly trickles through the ruined walls, feeding a stagnant, unnaturally blue pool at its base.
 - Local folklore claims the crypt contains the remains of the Barony of Blackwood, wiped out by a mysterious plague centuries ago.  Strange whispers are said to emanate from within, often described as lamentations and warnings.  The air around the crypt feels noticeably colder.
 -  Scattered amongst the debris within the crypt are remnants of finely crafted weapons and armor, suggesting a prolonged struggle or a desperate defense.  A recurring symbol – a stylized raven clutching a skull – is etched onto many of the artifacts.
 

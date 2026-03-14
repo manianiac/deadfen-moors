@@ -4,12 +4,12 @@ tags: [hex/E-10, terrain/swamp]
 ---
 # The Silver Shrine
 
-**Hex Label:** E.10
+**Hex Label:** [[The Silver Shrine|E.10]]
 **Terrain Type:** Swamp
 
 
 ## Main POI: The Silver Shrine
-- The Silver Shrine is a partially submerged, crumbling ziggurat constructed from a dark, moss-covered stone, predominantly silver in color due to extensive mineral deposits. Its uppermost level is almost entirely consumed by the swamp, with only the lower three tiers remaining standing, choked with twisted mangrove roots and luminous fungi.
+- [[The Silver Shrine]] is a partially submerged, crumbling ziggurat constructed from a dark, moss-covered stone, predominantly silver in color due to extensive mineral deposits. Its uppermost level is almost entirely consumed by the swamp, with only the lower three tiers remaining standing, choked with twisted mangrove roots and luminous fungi.
 - The shrine’s central chamber houses a perpetually shimmering pool of water, believed to possess potent healing properties, though the water is noticeably cold and unsettling. Strange, geometric carvings adorn the walls of the chamber, depicting serpentine figures and unsettling astrological symbols.
 - Local tribes, the Murkseekers, revere the shrine as a conduit to the “Silent Gods” of the swamp, offering small, intricately woven charms and occasionally humanoid sacrifices to the pool.  The air around the shrine always carries a faint, metallic scent.
 

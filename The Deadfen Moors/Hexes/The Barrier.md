@@ -9,9 +9,9 @@ tags: [hex/H-3, terrain/forest]
 
 
 ## Main POI: The Barrier
-- The Barrier is a colossal, petrified tree, approximately 150 feet tall and 40 feet in diameter, dominating the hex. Its wood is a dense, charcoal grey, seemingly solidified mid-growth with intricate, swirling patterns resembling frozen water.
-- A constant, unnatural mist clings to the base of the Barrier, obscuring the ground and carrying a faint, metallic scent.  Local folklore claims the mist whispers warnings and forgotten names.
-- Deep grooves, approximately 6 feet wide and 10 feet long, radiate outwards from the Barrier's base, creating a natural, navigable channel that bisects the hex, leading towards the western edge.
+- [[The Barrier]] is a colossal, petrified tree, approximately 150 feet tall and 40 feet in diameter, dominating the hex. Its wood is a dense, charcoal grey, seemingly solidified mid-growth with intricate, swirling patterns resembling frozen water.
+- A constant, unnatural mist clings to the base of [[The Barrier|the Barrier]], obscuring the ground and carrying a faint, metallic scent.  Local folklore claims the mist whispers warnings and forgotten names.
+- Deep grooves, approximately 6 feet wide and 10 feet long, radiate outwards from [[The Barrier|the Barrier]]'s base, creating a natural, navigable channel that bisects the hex, leading towards the western edge.
 
 
 ## Additional POI 1: Whisperwind Glade

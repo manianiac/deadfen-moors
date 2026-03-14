@@ -4,14 +4,14 @@ tags: [hex/J-12, terrain/forest]
 ---
 # The Red Hole
 
-**Hex Label:** J.12
+**Hex Label:** [[The Red Hole|J.12]]
 **Terrain Type:** Forest
 
 
 ## Main POI: The Red Hole
-- The Red Hole is a circular depression approximately 30 feet in diameter, surrounded by a dense ring of blackened, petrified trees. The walls of the hole are consistently stained a deep, rust-red color, believed to be caused by mineral deposits and possibly a slow-leaking, acidic substance.
-- Local folklore claims the hole is a “tear in the world,” created by a monstrous beast that consumed the surrounding forest. The air around the hole is noticeably colder and carries a faint, metallic scent.
-- Scattered around the base of the hole are fragments of what appear to be bone – primarily small mammal and avian – some polished smooth by the constant dampness. Signs of recent, though infrequent, animal activity (primarily scavenging carrion eaters) are present.
+- [[The Red Hole]] is a circular depression approximately 30 feet in diameter, surrounded by a dense ring of blackened, petrified trees. The walls of [[The Hole|the hole]] are consistently stained a deep, rust-red color, believed to be caused by mineral deposits and possibly a slow-leaking, acidic substance.
+- Local folklore claims [[The Hole|the hole]] is a “tear in the world,” created by a monstrous beast that consumed the surrounding forest. The air around [[The Hole|the hole]] is noticeably colder and carries a faint, metallic scent.
+- Scattered around the base of [[The Hole|the hole]] are fragments of what appear to be bone – primarily small mammal and avian – some polished smooth by the constant dampness. Signs of recent, though infrequent, animal activity (primarily scavenging carrion eaters) are present.
 
 ## Additional POI 1: Whisperwind Grove
 - A small clearing dominated by ancient, towering pines, known for producing an unnervingly resonant wind sound, even in still conditions.

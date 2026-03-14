@@ -4,12 +4,12 @@ tags: [hex/I-10, terrain/plains]
 ---
 # The Thundering Ridge
 
-**Hex Label:** I.10
+**Hex Label:** [[The Thundering Ridge|I.10]]
 **Terrain Type:** Plains
 
 
 ## Main POI: The Thundering Ridge
-- The Thundering Ridge is a naturally formed plateau, approximately 150 feet high, composed of layered sandstone and shale. Erosion from the western winds has carved deep channels into the plateau's face, creating a constant, low rumble resembling thunder, particularly during storms.
+- [[The Thundering Ridge]] is a naturally formed plateau, approximately 150 feet high, composed of layered sandstone and shale. Erosion from the western winds has carved deep channels into the plateau's face, creating a constant, low rumble resembling thunder, particularly during storms.
 - A weathered stone watchtower, constructed during the brief occupation of the nomadic Stonehand tribe, sits atop the Ridge’s highest point. It’s partially collapsed but retains a substantial portion of its walls and a reinforced platform offering a commanding view of the surrounding plains.
 - Scattered across the Ridge’s lower slopes are the skeletal remains of several large, horned beasts – likely the prey of a now-extinct predator species, judging by the bite marks. Recent archaeological digs have uncovered fragments of obsidian tools alongside the remains.
 

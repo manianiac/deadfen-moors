@@ -4,14 +4,14 @@ tags: [hex/D-13, terrain/plains]
 ---
 # The Iron Spring
 
-**Hex Label:** D.13
+**Hex Label:** [[The Iron Spring|D.13]]
 **Terrain Type:** Plains
 
 
 ## Main POI: The Iron Spring
-- The Iron Spring is a naturally occurring thermal spring, approximately 30 feet in diameter, situated within a depression in the otherwise flat plains. The water is a deep, metallic grey, heavily saturated with dissolved iron, giving it a shimmering, almost oily appearance.
-- A partially collapsed stone structure, resembling a ruined bathhouse, surrounds the spring. The stones are dark grey, weathered, and covered in moss, suggesting it was built centuries ago. Remnants of a complex system of channels and basins are visible.
-- Local folklore claims the spring possesses restorative properties, capable of healing wounds and alleviating aches, but frequent visitors report unsettling dreams and a pervasive feeling of being watched. The water’s temperature remains consistently around 110°F.
+- [[The Iron Spring]] is a naturally occurring thermal spring, approximately 30 feet in diameter, situated within a depression in the otherwise flat plains. The water is a deep, metallic grey, heavily saturated with dissolved iron, giving it a shimmering, almost oily appearance.
+- A partially collapsed stone structure, resembling a ruined bathhouse, surrounds [[The Spring|the spring]]. The stones are dark grey, weathered, and covered in moss, suggesting it was built centuries ago. Remnants of a complex system of channels and basins are visible.
+- Local folklore claims [[The Spring|the spring]] possesses restorative properties, capable of healing wounds and alleviating aches, but frequent visitors report unsettling dreams and a pervasive feeling of being watched. The water’s temperature remains consistently around 110°F.
 
 
 

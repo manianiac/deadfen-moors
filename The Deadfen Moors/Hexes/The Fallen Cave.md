@@ -4,7 +4,7 @@ tags: [hex/C-10, terrain/swamp]
 ---
 # The Fallen Cave
 
-**Hex Label:** C.10
+**Hex Label:** [[The Fallen Cave|C.10]]
 **Terrain Type:** Swamp
 
 

@@ -9,13 +9,13 @@ tags: [hex/J-3, terrain/forest]
 
 
 ## Main POI: The Copper Cave
-- The Copper Cave is a sprawling network of limestone caverns, approximately 150 feet deep and 300 feet in diameter at its widest point. Water constantly drips from the ceiling, depositing shimmering copper deposits that give the cave its name and a faint, metallic scent.
+- [[The Copper Cave]] is a sprawling network of limestone caverns, approximately 150 feet deep and 300 feet in diameter at its widest point. Water constantly drips from the ceiling, depositing shimmering copper deposits that give the cave its name and a faint, metallic scent.
 - The main chamber contains a sizable pool of stagnant, turquoise water reflecting the cave’s ceiling. Strange, bioluminescent fungi grow in patches around the pool’s edges, casting an eerie, blue light.
 - Scattered throughout the cave are the skeletal remains of several large cave bears, likely the result of territorial disputes within the cavern system. A narrow passage, choked with loose scree, leads deeper into the unexplored sections of the cave.
 
 ## Additional POI 1: Whisperwind Glade
 - A small, sheltered glade filled with ancient, wind-sculpted pines, creating a perpetual, hushed atmosphere.
-- Tracks indicate frequent passage by a nomadic tribe of wood elves known as the “Silken Hand.”
+- Tracks indicate frequent passage by a nomadic tribe of wood [[Elves|elves]] known as the “Silken Hand.”
 - A weathered stone altar sits at the glade's center, partially covered in moss and bearing faint carvings of stylized birds.
 
 ## Additional POI 2: Blackroot Creek

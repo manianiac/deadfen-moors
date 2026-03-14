@@ -4,7 +4,7 @@ tags: [faction, religion]
 ---
 # The Hearth of the First Queen
 
-Followers of [[Aenor]], these clerics are the premier protectors and healers of the common folk, embodying the maternal defense of early humanity.
+Followers of [[Aenor]], these clerics are the premier protectors and healers of the common folk, embodying the maternal defense of early [[God Kings|humanity]].
 
 - **Favored Weapon:** Sling (representing the humble defense of the commoners).
 - **Alignment:** Lawful.

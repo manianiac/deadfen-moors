@@ -9,7 +9,7 @@ cta:
     href: "/The Deadfen Moors/Characters"
 ---
 
-Welcome to the Deadfen Moors! 
+Welcome to [[The Deadfen Moors|the Deadfen Moors]]! 
 
 ---
 
@@ -21,7 +21,7 @@ According to current Human understanding, the world is a dangerous, wild place b
     
 - **The Prime Scourge and its Spawn:** During the height of their power, the Nabu summoned a singular, terrifying eldritch horror into our reality. Almost immediately upon arriving, this Prime Scourge boiled up from the deep earth and spawned countless other horrors to unmake reality in the wake of the Nabu's departure.
     
-- **The [[God Kings|God-Kings]] (Inhumans):** A caste of powerful, engineered inhumans created to protect humanity and hunt down the Scourge. Their very blood was a weapon against the dark, and they fought the horrors to a standstill. They ruled as God-Kings—some benevolent, some tyrants—but over thousands of years of infighting, their numbers dwindled, and their inhuman blood was diluted.
+- **The [[God Kings]]:** A caste of powerful, superhuman warriors created to protect humanity and hunt down the Scourge. Their very blood was a weapon against the dark, and they fought the horrors to a standstill. They ruled as God-Kings—some benevolent, some tyrants—but over thousands of years of infighting, their numbers dwindled, and their powerful blood was diluted.
     
 - **The Modern Era:** Humanity survived, but the modern kingdoms are led by the un-powered human descendants of the God-Kings, struggling to reclaim the glory of the past on the frontier.
     
@@ -41,11 +41,11 @@ According to current Human understanding, the world is a dangerous, wild place b
 
 ## Part 2: Faiths and Religions
 
-True divine magic in the Deadfen Moors is channeled through devotion to the lingering power of the ancient God-Kings.
+True divine magic in [[The Deadfen Moors|the Deadfen Moors]] is channeled through devotion to the lingering power of the ancient God-Kings.
 
 ### The Hearth of the First Queen
 
-Followers of [[Aenor|Queen Aenor]], these clerics are the premier protectors and healers of the common folk, embodying the maternal defense of early humanity.
+Followers of [[Aenor|Queen Aenor]], these clerics are the premier protectors and healers of the common folk, embodying the maternal defense of early [[God Kings|humanity]].
 
 - **Alignment:** Lawful.
     
@@ -107,9 +107,9 @@ Followers of [[Sir Galen|Sir Galen the Bright Knight]], this order believes that
 
 A martial religion venerating [[Caelen]] and [[Beric]]. The church is split: the Vanguard uses disciplined, noble tactics, while the Thorns harness primal, mutated ferocity.
 
-- **Alignment:** Lawful (Caelen sect) or Neutral (Beric sect).
+- **Alignment:** Lawful ([[Caelen]] sect) or Neutral ([[Beric]] sect).
     
-- **Favored Weapon:** Club. Perfectly balanced, iron-shod batons (Caelen), or jagged, studded cudgels of monster bone (Beric).
+- **Favored Weapon:** Club. Perfectly balanced, iron-shod batons ([[Caelen]]), or jagged, studded cudgels of monster bone ([[Beric]]).
     
 - **Turn Undead:** A terrifying, predatory aura emanates from the cleric. The undead are turned by supernatural fear, sensing the apex predator of their kind has arrived.
     

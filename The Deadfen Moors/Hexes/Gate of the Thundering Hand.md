@@ -4,7 +4,7 @@ tags: [hex/G-15, terrain/plains-with-scrub]
 ---
 # Gate of the Thundering Hand
 
-**Hex Label:** G.15
+**Hex Label:** [[Gate of the Thundering Hand|G.15]]
 **Terrain Type:** Plains (with scrub)
 
 

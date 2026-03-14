@@ -16,7 +16,7 @@ tags: [hex/J-7, terrain/plains]
 ## Additional POI 1: Whisperwind Ridge
 - A narrow ridge of exposed shale runs along the northern edge of the hex, perpetually buffeted by winds that carry faint, unintelligible murmurs.
 - Several weathered cairns mark potential bandit camps, remnants of travelers lost to the Vale's unsettling influence.
-- Scavengers often collect strangely shaped stones from the ridge, rumored to hold residual echoes of the Vale's past.
+- [[The Copper-Grubbers|Scavengers]] often collect strangely shaped stones from the ridge, rumored to hold residual echoes of the Vale's past.
 
 ## Additional POI 2: Silent Creek
 - Silent Creek flows from the southern edge of the Vale, its water a stagnant, grey color with a noticeably sweet odor.

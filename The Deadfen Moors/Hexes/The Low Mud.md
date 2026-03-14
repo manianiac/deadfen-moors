@@ -9,9 +9,9 @@ tags: [hex/C-8, terrain/mountains]
 
 
 ## Main POI: The Low Mud
-- The Low Mud is a perpetually damp basin carved into the southern slopes of the Greyfang Mountains, characterized by thick, clinging mud and stunted, moss-covered pines. The ground is rarely solid for more than a few feet, forcing travelers to navigate with extreme caution.
+- [[The Low Mud]] is a perpetually damp basin carved into the southern slopes of the Greyfang Mountains, characterized by thick, clinging mud and stunted, moss-covered pines. The ground is rarely solid for more than a few feet, forcing travelers to navigate with extreme caution.
 - A crumbling stone watchtower, partially collapsed and choked with ivy, dominates the center of the basin – the remains of a long-abandoned mining outpost established during a brief silver vein discovery.  Scavenged tools and rusted mining carts litter the area.
-- A constant, low mist hangs over The Low Mud, contributing to a pervasive dampness and a noticeable drop in temperature. Strange, bioluminescent fungi grow in the darkest crevices, casting an eerie green glow.
+- A constant, low mist hangs over [[The Low Mud]], contributing to a pervasive dampness and a noticeable drop in temperature. Strange, bioluminescent fungi grow in the darkest crevices, casting an eerie green glow.
 
 
 

@@ -8,4 +8,4 @@ A defunct clan of [[Dwarves]] originally tasked with refining highly volatile, a
 
 - **Status:** Defunct (Quarantined)
 - **Notable Figures:** *(Add notable figures here)*
-- **Associated Locations:** [[B.10]] The Ashen Cave (or The Dead Fort)
+- **Associated Locations:** [[B.10]] [[The Ashen Cave]] (or [[The Dead Fort]])

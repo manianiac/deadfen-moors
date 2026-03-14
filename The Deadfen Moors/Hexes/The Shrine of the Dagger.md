@@ -4,7 +4,7 @@ tags: [hex/C-11, terrain/swamp]
 ---
 # The Shrine of the Dagger
 
-**Hex Label:** C.11
+**Hex Label:** [[The Shrine of the Dagger|C.11]]
 **Terrain Type:** Swamp
 
 

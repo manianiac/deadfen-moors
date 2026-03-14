@@ -9,7 +9,7 @@ tags: [hex/F-3, terrain/forest]
 
 
 ## Main POI: The Ring
-- The Ring is a naturally formed stone circle, approximately 30 feet in diameter, situated within a clearing dominated by ancient, moss-covered oaks. The stones are predominantly grey granite, exhibiting faint, spiraling patterns within the rock face.
+- [[The Ring]] is a naturally formed stone circle, approximately 30 feet in diameter, situated within a clearing dominated by ancient, moss-covered oaks. The stones are predominantly grey granite, exhibiting faint, spiraling patterns within the rock face.
 - A perpetual, heavy mist clings to the area around the circle, often obscuring details and creating an unsettling silence. Local legends claim the mist is the breath of trapped spirits.
 -  A narrow, overgrown trail, barely discernible, leads into the circle from the south. Recent signs suggest sporadic, but increasing, attempts at ritualistic markings on the stones. 
 

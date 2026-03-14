@@ -8,4 +8,4 @@ An active clan of [[Dwarves]] operating out of a massive surface quarry. Origina
 
 - **Status:** Active
 - **Notable Figures:** [[Zabar]]
-- **Associated Locations:** The Copper Cave
+- **Associated Locations:** [[The Copper Cave]]

@@ -9,7 +9,7 @@ tags: [hex/O-6, terrain/plains]
 
 
 ## Main POI: The Vale of Blood
-- The Vale of Blood is a perpetually overcast, roughly circular plain dominated by unusually deep, crimson-stained soil. The color is not due to iron, but a strange, slow-growing fungal bloom that thrives in the damp conditions.
+- [[The Vale of Blood]] is a perpetually overcast, roughly circular plain dominated by unusually deep, crimson-stained soil. The color is not due to iron, but a strange, slow-growing fungal bloom that thrives in the damp conditions.
 - Scattered throughout the Vale are the skeletal remains of a nomadic tribe, the ‘Crimson Riders,’ estimated to date back nearly five hundred years. Their crude stone cairns and partially reconstructed bone structures suggest a sudden, violent end.
 - A network of shallow, brackish canals fed by subterranean springs cuts through the Vale, intensifying the fungal bloom and creating a persistently humid microclimate. Strange, bioluminescent insects are drawn to the canals at night.
 

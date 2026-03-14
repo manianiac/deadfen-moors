@@ -15,7 +15,7 @@ tags: [hex/C-7, terrain/hills]
 
 ## Additional POI 1: Widow’s Watch
 - A crumbling stone watchtower, overlooking the western edge of the hex, offering a panoramic view of the surrounding hills.
--  The tower’s lower levels are riddled with rodent infestation and the upper levels are partially collapsed, making ascent dangerous.
+-  [[The Tower|The tower]]’s lower levels are riddled with rodent infestation and the upper levels are partially collapsed, making ascent dangerous.
 -  Scattered around the base are the skeletal remains of a mounted guard, suggesting a long-ago and violent defense of the area.
 
 ## Additional POI 2: Whispering Cairns

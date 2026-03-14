@@ -9,9 +9,9 @@ tags: [hex/F-7, terrain/plains]
 
 
 ## Main POI: The Tree of the Near Heart
-- The Tree itself is an enormous, ancient oak, estimated to be at least eight hundred years old. Its trunk is wider than a small house, gnarled and covered in moss and lichen of unusual, faintly luminescent shades of blue and green. The branches reach impossibly high, forming a dense canopy that filters most sunlight.
-- At the base of the tree lies a circular clearing, perpetually damp and surprisingly warm. A small, still pool of water reflects the tree’s canopy perfectly, and the air here carries a subtle, sweet fragrance reminiscent of cinnamon and rain.
-- Local legends claim the tree is a nexus point, a place where the veil between the mortal world and the “Near Heart” – a realm of emotions and dreams – is thin. Visitors have reported vivid, intensely personal visions and unsettling sensations of connection to others.
+- [[The Tree]] itself is an enormous, ancient oak, estimated to be at least eight hundred years old. Its trunk is wider than a small house, gnarled and covered in moss and lichen of unusual, faintly luminescent shades of blue and green. The branches reach impossibly high, forming a dense canopy that filters most sunlight.
+- At the base of [[The Tree|the tree]] lies a circular clearing, perpetually damp and surprisingly warm. A small, still pool of water reflects [[The Tree|the tree]]’s canopy perfectly, and the air here carries a subtle, sweet fragrance reminiscent of cinnamon and rain.
+- Local legends claim [[The Tree|the tree]] is a nexus point, a place where the veil between the mortal world and the “Near Heart” – a realm of emotions and dreams – is thin. Visitors have reported vivid, intensely personal visions and unsettling sensations of connection to others.
 
 
 

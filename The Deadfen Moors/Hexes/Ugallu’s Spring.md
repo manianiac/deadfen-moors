@@ -4,14 +4,14 @@ tags: [hex/E-11, terrain/swamp]
 ---
 # Ugallu’s Spring
 
-**Hex Label:** E.11
+**Hex Label:** [[Ugallu’s Spring|E.11]]
 **Terrain Type:** Swamp
 
 
 ## Main POI: Ugallu’s Spring
 - The hex centers around a stagnant pool, roughly 100 feet across and 30 feet deep, choked with black algae and perpetually shrouded in a sickly green mist. The water itself seems to absorb light, and a constant, low hum vibrates from its depths.
-- Scattered around the spring's edge are the petrified remains of several humanoid figures, twisted into grotesque poses, suggesting a violent demise. Many are coated in a thick, tar-like substance that smells of sulfur and decay.
-- A crumbling stone altar, partially submerged in the water, bears the crude carvings of a horned, demonic figure – believed to be Ugallu himself – and is consistently slick with a viscous, crimson fluid.
+- Scattered around [[The Spring|the spring]]'s edge are the petrified remains of several humanoid figures, twisted into grotesque poses, suggesting a violent demise. Many are coated in a thick, tar-like substance that smells of sulfur and decay.
+- A crumbling stone altar, partially submerged in the water, bears the crude carvings of a horned, demonic figure – believed to be [[Ugallu]] himself – and is consistently slick with a viscous, crimson fluid.
 
 
 ## Additional POI 1: Cliff of the Devil Ugallu

@@ -10,4 +10,4 @@ They are cowardly but dangerous to wounded travelers, relying on crude mud-traps
 
 - **Alignment:** Neutral / Chaotic
 - **Associated Factions:** Exiles of the main town
-- **Associated Locations:** [[The Low Mud]] (Hex M.10)
+- **Associated Locations:** [[The Low Mud]] (Hex [[The Pit of Water|M.10]])

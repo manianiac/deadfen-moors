@@ -8,4 +8,4 @@ A tyrant [[God-Kings|God-King]] from the fading era who wielded the "Divine Levi
 
 - **Religion:** [[The Ascendant Sky]]
 - **Associated Locations**:
-  - [[O.5]] King Lothar the Floating
+  - [[O.5]] [[King Lothar the Floating]]

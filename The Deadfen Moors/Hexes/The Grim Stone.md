@@ -4,14 +4,14 @@ tags: [hex/A-10, terrain/hills]
 ---
 # The Grim Stone
 
-**Hex Label:** A.10
+**Hex Label:** [[The Grim Stone|A.10]]
 **Terrain Type:** Hills
 
 
 ## Main POI: The Grim Stone
-- The Grim Stone is a monolithic, obsidian-like structure rising 40 feet from the surrounding hills, seemingly hewn from a single, impossibly smooth stone. Its surface is perpetually slick with a dark, viscous fluid that resists all attempts at cleaning.
-- At the base of the Stone, a circular clearing contains the remains of a long-abandoned shrine, constructed from weathered grey stone. Carved reliefs depict skeletal figures engaged in a silent battle against a monstrous, winged beast.
-- The surrounding hills are riddled with shallow caves and narrow ravines, many of which echo with a low, mournful hum, intensifying near the Stone's base. Local folklore claims the Stone absorbs sound and sorrow.
+- [[The Grim Stone]] is a monolithic, obsidian-like structure rising 40 feet from the surrounding hills, seemingly hewn from a single, impossibly smooth stone. Its surface is perpetually slick with a dark, viscous fluid that resists all attempts at cleaning.
+- At the base of [[The Stone|the Stone]], a circular clearing contains the remains of a long-abandoned shrine, constructed from weathered grey stone. Carved reliefs depict skeletal figures engaged in a silent battle against a monstrous, winged beast.
+- The surrounding hills are riddled with shallow caves and narrow ravines, many of which echo with a low, mournful hum, intensifying near [[The Stone|the Stone]]'s base. Local folklore claims [[The Stone|the Stone]] absorbs sound and sorrow.
 
 ## Additional POI 1: Whisperwind Glade
 - A small, sheltered valley filled with unusually tall, silver-leaved trees. Constant, gentle breezes create a perpetual whispering sound.

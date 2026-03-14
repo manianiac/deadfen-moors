@@ -9,7 +9,7 @@ tags: [hex/K-8, terrain/plains]
 
 
 ## Main POI: The Silver Village
-- The Silver Village is a settlement of approximately 250 people primarily engaged in the mining and crafting of silver ore found within the surrounding plains. Buildings are constructed from grey stone and timber, with many homes featuring silver accents – polished ore used for ornamentation and detailing.
+- [[The Silver Village]] is a settlement of approximately 250 people primarily engaged in the mining and crafting of silver ore found within the surrounding plains. Buildings are constructed from grey stone and timber, with many homes featuring silver accents – polished ore used for ornamentation and detailing.
 - The village's economy revolves around the ‘Silversmith’s Guild’, a highly respected organization controlling the quality and sale of all silver products produced within K.8. Guild masters hold considerable influence over village affairs.
 - A partially collapsed aqueduct, originating from a distant mountain spring, runs along the southern edge of the village, providing a consistent water source for both the settlement and the village’s famed silver-infused water used in potions and medicinal remedies.
 

@@ -4,14 +4,14 @@ tags: [hex/F-10, terrain/swamp]
 ---
 # The Dark Stone
 
-**Hex Label:** F.10
+**Hex Label:** [[The Dark Stone|F.10]]
 **Terrain Type:** Swamp
 
 
 ## Main POI: The Dark Stone
-- The Dark Stone is a monolithic obsidian structure, roughly 30 feet tall and 15 feet wide, rising abruptly from the fetid swamp. Its surface is slick with perpetual moisture and covered in strange, faintly pulsing glyphs that shift subtly in the dim light.
-- Local folklore claims the Stone is a solidified tear of a forgotten god, and that prolonged exposure causes nightmares and unsettling visions. The swamp surrounding the Stone exhibits accelerated growth, with abnormally large, bioluminescent fungi and carnivorous plants.
-- Deep within the Stone's base lies a network of dark, winding tunnels, rumored to lead to a subterranean lake and, according to some accounts, to the resting place of the Stone’s creator – a being of immense, unsettling power.
+- [[The Dark Stone]] is a monolithic obsidian structure, roughly 30 feet tall and 15 feet wide, rising abruptly from the fetid swamp. Its surface is slick with perpetual moisture and covered in strange, faintly pulsing glyphs that shift subtly in the dim light.
+- Local folklore claims [[The Stone|the Stone]] is a solidified tear of a forgotten god, and that prolonged exposure causes nightmares and unsettling visions. The swamp surrounding [[The Stone|the Stone]] exhibits accelerated growth, with abnormally large, bioluminescent fungi and carnivorous plants.
+- Deep within [[The Stone|the Stone]]'s base lies a network of dark, winding tunnels, rumored to lead to a subterranean lake and, according to some accounts, to the resting place of [[The Stone|the Stone]]’s creator – a being of immense, unsettling power.
 
 ## Additional POI 1: Whispering Reeds
 - A dense patch of reeds along the southern edge of the hex emits a constant, low hum, said to be the voices of drowned souls.

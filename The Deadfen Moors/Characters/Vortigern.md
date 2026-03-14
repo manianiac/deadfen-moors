@@ -1,6 +1,6 @@
 ---
 aliases: [The Scorched King]
-tags: [character, inhuman, god-king]
+tags: [character, god-king]
 ---
 # Vortigern
 

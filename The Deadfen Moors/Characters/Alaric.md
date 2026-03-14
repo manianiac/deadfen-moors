@@ -8,4 +8,4 @@ A fallen [[God-Kings|God-King]] cursed to decay by divine mandate. He is remembe
 
 - **Religion:** [[The Withered Path]]
 - **Associated Locations**:
-  - [[L.10]] King Alaric the Withered
+  - [[L.10]] [[King Alaric the Withered]]

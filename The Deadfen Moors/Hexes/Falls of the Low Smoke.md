@@ -9,9 +9,9 @@ tags: [hex/N-5, terrain/plains-river]
 
 
 ## Main POI: Falls of the Low Smoke
-- The falls themselves are a series of tiered cascades plunging 60 feet into the Serpent’s Reach River, perpetually shrouded in a low-lying mist originating from the mineral-rich waters. The water is unusually dark grey, hence the “Low Smoke” moniker – it carries a fine, oily sheen visible only in direct sunlight.
+- [[The Falls|The falls]] themselves are a series of tiered cascades plunging 60 feet into the Serpent’s Reach River, perpetually shrouded in a low-lying mist originating from the mineral-rich waters. The water is unusually dark grey, hence the “Low Smoke” moniker – it carries a fine, oily sheen visible only in direct sunlight.
 - Located approximately 100 yards upstream is the Obsidian Cairn, a naturally formed stack of black, polished obsidian stones arranged in a spiral pattern. Locals whisper of prophetic visions gleaned from staring into the cairn’s heart.
-- The riverbank below the falls hosts a small, dilapidated settlement known as Greyhaven, primarily consisting of fisherfolk and scavengers who trade in the rare, phosphorescent fungi that grow in the damp shadows of the falls. 
+- The riverbank below [[The Falls|the falls]] hosts a small, dilapidated settlement known as Greyhaven, primarily consisting of fisherfolk and [[The Copper-Grubbers|scavengers]] who trade in the rare, phosphorescent fungi that grow in the damp shadows of [[The Falls|the falls]]. 
 
 ## Additional POI 1: Whisperwind Glade
 - A circular clearing dominated by ancient willow trees, the Glade is perpetually breezy, even in still conditions. Strange, melodic whistles are often heard emanating from within.

@@ -4,13 +4,13 @@ tags: [hex/B-11, terrain/plains]
 ---
 # The Sword's Ridge
 
-**Hex Label:** B.11
+**Hex Label:** [[The Sword's Ridge|B.11]]
 **Terrain Type:** Plains
 
 
 ## Main POI: The Sword's Ridge
 - The Sword’s Ridge is a naturally formed rock formation resembling a colossal, broken sword, rising 60 feet from the surrounding plains. The rock is primarily shale, stained red by iron deposits and exhibiting sharp, jagged edges.
-- A small, dilapidated watchtower, constructed from the same shale, sits at the base of the ridge, offering a commanding view of the surrounding plains. It is currently occupied by three wary scavengers.
+- A small, dilapidated watchtower, constructed from the same shale, sits at the base of the ridge, offering a commanding view of the surrounding plains. It is currently occupied by three wary [[The Copper-Grubbers|scavengers]].
 - Evidence of a long-abandoned campsite exists approximately 100 yards east of the ridge, featuring scattered bones – mostly humanoid – and the remains of a burnt wagon. 
 
 ## Additional POI 1: Whisperwind Farmstead

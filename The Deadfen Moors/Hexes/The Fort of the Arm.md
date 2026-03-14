@@ -9,7 +9,7 @@ tags: [hex/G-9, terrain/plains-with-scrub]
 
 
 ## Main POI: The Fort of the Arm
-- The Fort of the Arm is a crumbling stone structure, approximately 150 feet in diameter, built into a slight rise in the plains. Primarily constructed of rough-hewn granite blocks, the walls are scarred by centuries of weather and sporadic sieges. Sections of the outer wall have collapsed entirely, revealing a narrow, overgrown ditch.
+- [[The Fort of the Arm]] is a crumbling stone structure, approximately 150 feet in diameter, built into a slight rise in the plains. Primarily constructed of rough-hewn granite blocks, the walls are scarred by centuries of weather and sporadic sieges. Sections of the outer wall have collapsed entirely, revealing a narrow, overgrown ditch.
 - Within the fort’s central courtyard sits a dilapidated stone well, choked with weeds and rumored to be haunted. A partially collapsed barracks building faces the courtyard, offering scant shelter and containing remnants of rusted weaponry and decaying furniture. 
 - A heavily fortified gatehouse, reinforced with iron banding, remains surprisingly intact, though the wooden doors are long gone. A rusted portcullis mechanism lies within the archway, suggesting a deliberate attempt at defense.
 

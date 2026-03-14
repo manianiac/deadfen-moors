@@ -4,7 +4,7 @@ tags: [hex/N-10, terrain/plains]
 ---
 # Gundinul Tavern
 
-**Hex Label:** N.10
+**Hex Label:** [[Gundinul Tavern|N.10]]
 **Terrain Type:** Plains
 
 ## Main POI: Gundinul Tavern

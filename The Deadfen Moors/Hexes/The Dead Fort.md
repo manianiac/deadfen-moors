@@ -4,7 +4,7 @@ tags: [hex/B-10, terrain/forest-on-hills]
 ---
 # The Dead Fort
 
-**Hex Label:** B.10
+**Hex Label:** [[The Dead Fort|B.10]]
 **Terrain Type:** Forest (on hills)
 
 

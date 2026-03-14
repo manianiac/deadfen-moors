@@ -4,13 +4,13 @@ tags: [hex/F-12, terrain/plains]
 ---
 # The Falls
 
-**Hex Label:** F.12
+**Hex Label:** [[The Falls|F.12]]
 **Terrain Type:** Plains
 
 
 ## Main POI: The Falls
 - A towering, naturally formed waterfall dominates the hex, plunging approximately 80 feet into a clear, turquoise pool at the base. The sheer volume of water creates a constant, fine mist that hangs in the air.
-- The surrounding plains are characterized by a unique, mineral-rich soil, staining the ground with streaks of ochre and amber, a result of the constant spray from the falls. Patches of stunted, phosphorescent moss thrive in the dampest areas.
+- The surrounding plains are characterized by a unique, mineral-rich soil, staining the ground with streaks of ochre and amber, a result of the constant spray from [[The Falls|the falls]]. Patches of stunted, phosphorescent moss thrive in the dampest areas.
 - Scattered along the riverbanks are the crumbling ruins of what appears to be a small, abandoned shrine dedicated to a water deity. Stone carvings depict stylized aquatic creatures, worn smooth by centuries of weathering.
 
 ## Additional POI 1: Whisperwind Glade

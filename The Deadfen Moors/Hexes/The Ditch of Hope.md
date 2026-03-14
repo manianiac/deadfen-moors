@@ -9,8 +9,8 @@ tags: [hex/D-5, terrain/plains]
 
 
 ## Main POI: The Ditch of Hope
-- The Ditch of Hope is a vast, roughly circular depression in the plains, approximately one mile in diameter and averaging 30 feet deep. Its origin is unknown, though local legends attribute it to a forgotten god’s weeping.
-- A single, dilapidated watchtower, constructed of dark, weathered stone, stands at the precise center of the Ditch. The tower is riddled with small, circular arrow slits and a rusted, heavy wooden door.
+- [[The Ditch of Hope]] is a vast, roughly circular depression in the plains, approximately one mile in diameter and averaging 30 feet deep. Its origin is unknown, though local legends attribute it to a forgotten god’s weeping.
+- A single, dilapidated watchtower, constructed of dark, weathered stone, stands at the precise center of the Ditch. [[The Tower|The tower]] is riddled with small, circular arrow slits and a rusted, heavy wooden door.
 -  Within the Ditch’s perimeter, the soil is unnaturally fertile, producing abnormally large and vibrant crops – primarily wheat and various herbs. This phenomenon is accompanied by an eerie, constant low hum audible only within the depression.
 
 ## Additional POI 1: Whisperwind Ridge

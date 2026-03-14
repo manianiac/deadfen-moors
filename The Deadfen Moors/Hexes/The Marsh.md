@@ -9,8 +9,8 @@ tags: [hex/A-8, terrain/mountains]
 
 
 ## Main POI: The Marsh
-- The Marsh is a perpetually flooded basin carved into the base of the Dragon’s Tooth Mountains, a result of ancient glacial meltwater. Brackish water, stained dark green by algae, fills the low-lying areas, creating a treacherous maze of channels and stagnant pools.
-- A network of crumbling, moss-covered stone steps – remnants of a long-abandoned mining operation – descends into the deepest sections, offering precarious routes through the marsh. The steps lead to several partially submerged mine shafts.
+- [[The Marsh]] is a perpetually flooded basin carved into the base of the Dragon’s Tooth Mountains, a result of ancient glacial meltwater. Brackish water, stained dark green by algae, fills the low-lying areas, creating a treacherous maze of channels and stagnant pools.
+- A network of crumbling, moss-covered stone steps – remnants of a long-abandoned mining operation – descends into the deepest sections, offering precarious routes through [[The Marsh|the marsh]]. The steps lead to several partially submerged mine shafts.
 - Strange, bioluminescent fungi thrive in the perpetual twilight beneath the water’s surface, casting an eerie green glow and attracting a variety of mutated amphibians and insects. Local legend speaks of a "Whispering God" residing within the deepest pools.
 
 ## Additional POI 1: Obsidian Peak

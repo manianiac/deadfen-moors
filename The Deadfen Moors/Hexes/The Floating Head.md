@@ -4,7 +4,7 @@ tags: [hex/H-13, terrain/plains-with-scrub]
 ---
 # The Floating Head
 
-**Hex Label:** H.13
+**Hex Label:** [[The Floating Head|H.13]]
 **Terrain Type:** Plains (with scrub)
 
 

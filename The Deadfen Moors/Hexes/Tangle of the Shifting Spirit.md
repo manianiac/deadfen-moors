@@ -4,7 +4,7 @@ tags: [hex/K-11, terrain/forest]
 ---
 # Tangle of the Shifting Spirit
 
-**Hex Label:** K.11
+**Hex Label:** [[Tangle of the Shifting Spirit|K.11]]
 **Terrain Type:** Forest
 
 
@@ -16,7 +16,7 @@ tags: [hex/K-11, terrain/forest]
 ## Additional POI 1: Bracklen’s Watch
 - A dilapidated watchtower, constructed of grey stone, offering a partial view of the western forest edge. 
 - Bracklen, a hermit known for tracking unusual movements in the woods, maintains a small, stubbornly maintained garden nearby.
-- The tower contains remnants of a failed, long-abandoned attempt to ward off the forest’s spirit activity.
+- [[The Tower|The tower]] contains remnants of a failed, long-abandoned attempt to ward off the forest’s spirit activity.
 
 ## Additional POI 2: Rootbound Glade
 - A small, circular glade where the trees grow in a tight, almost geometric pattern, creating a claustrophobic space.

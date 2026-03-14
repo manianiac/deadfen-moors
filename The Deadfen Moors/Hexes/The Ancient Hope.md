@@ -4,13 +4,13 @@ tags: [hex/I-13, terrain/forest]
 ---
 # The Ancient Hope
 
-**Hex Label:** I.13
+**Hex Label:** [[The Ancient Hope|I.13]]
 **Terrain Type:** Forest
 
 
 ## Main POI: The Ancient Hope
-- The Ancient Hope is a colossal, petrified tree, estimated to be over 8,000 years old, dominating the hex. Its massive trunk, stained with iridescent minerals, rises at least 150 feet and is riddled with intricate, geometric carvings – the origin and meaning of which are unknown.
-- A circular clearing surrounds the base of the tree, perpetually bathed in dappled sunlight. Within the clearing, a shallow, turquoise pool collects rainwater and possesses faintly luminescent properties. The air around the pool is noticeably warmer.
+- [[The Ancient Hope]] is a colossal, petrified tree, estimated to be over 8,000 years old, dominating the hex. Its massive trunk, stained with iridescent minerals, rises at least 150 feet and is riddled with intricate, geometric carvings – the origin and meaning of which are unknown.
+- A circular clearing surrounds the base of [[The Tree|the tree]], perpetually bathed in dappled sunlight. Within the clearing, a shallow, turquoise pool collects rainwater and possesses faintly luminescent properties. The air around the pool is noticeably warmer.
 - Scattered around the base are the ruins of a small, stone shrine, constructed from grey granite and partially collapsed.  Several weathered stone tablets depicting stylized avian figures are amongst the debris.
 
 

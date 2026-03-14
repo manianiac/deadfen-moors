@@ -9,9 +9,9 @@ tags: [hex/K-6, terrain/forest]
 
 
 ## Main POI: The Dark Heart
-- The Dark Heart is a crumbling, obsidian-like tower rising abruptly from the forest floor, perpetually shrouded in a thick, unnatural mist. Local folklore claims it was built by a forgotten sorcerer attempting to harness the primal energies of the forest.
-- Within the tower’s lower levels, a network of twisting tunnels and flooded chambers harbor strange, phosphorescent fungi and unsettling echoes of whispers. Traps, seemingly designed to disorient and drain life force, are prevalent.
-- A small, perpetually shadowed clearing surrounds the tower's base, containing a circle of standing stones etched with unsettling, serpentine symbols. These stones hum with a subtle, resonant energy.
+- [[The Dark Heart]] is a crumbling, obsidian-like tower rising abruptly from the forest floor, perpetually shrouded in a thick, unnatural mist. Local folklore claims it was built by a forgotten sorcerer attempting to harness the primal energies of the forest.
+- Within [[The Tower|the tower]]’s lower levels, a network of twisting tunnels and flooded chambers harbor strange, phosphorescent fungi and unsettling echoes of whispers. Traps, seemingly designed to disorient and drain life force, are prevalent.
+- A small, perpetually shadowed clearing surrounds [[The Tower|the tower]]'s base, containing a circle of standing stones etched with unsettling, serpentine symbols. These stones hum with a subtle, resonant energy.
 
 
 ## Additional POI 1: Whisperwind Glade

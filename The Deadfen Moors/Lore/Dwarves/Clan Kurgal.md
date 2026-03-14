@@ -8,4 +8,4 @@ A defunct clan of [[Dwarves]] wiped out after their deep-mining operations breac
 
 - **Status:** Defunct (Overrun)
 - **Notable Figures:** [[Kurgal]]
-- **Associated Locations:** Den of the Dead Kurgal
+- **Associated Locations:** [[Den of the Dead Kurgal]]

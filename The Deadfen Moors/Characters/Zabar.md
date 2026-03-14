@@ -7,4 +7,4 @@ tags: [character, dwarf, construct]
 A mutated, rogue earth-construct of [[Dwarves|Dwarven]] origin.
 
 - **Associated Locations**:
-  - [[L.7]] Circle of Zabar
+  - [[L.7]] [[Circle of Zabar]]

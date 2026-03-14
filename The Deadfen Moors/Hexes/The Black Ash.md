@@ -4,12 +4,12 @@ tags: [hex/B-12, terrain/plains]
 ---
 # The Black Ash
 
-**Hex Label:** B.12
+**Hex Label:** [[The Black Ash|B.12]]
 **Terrain Type:** Plains
 
 
 ## Main POI: The Black Ash
-- The Black Ash is a ruined, blackened fortress constructed primarily of volcanic basalt, now choked with ash and stunted, charcoal-colored vegetation. The walls stand approximately 30 feet high, exhibiting signs of intense fire damage and partial collapse. 
+- [[The Black Ash]] is a ruined, blackened fortress constructed primarily of volcanic basalt, now choked with ash and stunted, charcoal-colored vegetation. The walls stand approximately 30 feet high, exhibiting signs of intense fire damage and partial collapse. 
 - Within the central courtyard lies a solidified pool of obsidian, radiating a faint, unnatural cold. Scattered around the pool are the skeletal remains of what appear to be heavily armored warriors, clad in blackened plate armor. 
 - A perpetual, mournful wind whispers through the ruined towers, carrying with it the scent of sulfur and a subtle, unsettling hum. Scrawled upon the remaining walls are fragmented runes of a forgotten language.
 

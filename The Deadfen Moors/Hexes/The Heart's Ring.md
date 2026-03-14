@@ -4,14 +4,14 @@ tags: [hex/N-11, terrain/plains]
 ---
 # The Heart's Ring
 
-**Hex Label:** N.11
+**Hex Label:** [[The Heart's Ring|N.11]]
 **Terrain Type:** Plains
 
 
 ## Main POI: The Heart's Ring
 - The Heart’s Ring is a naturally formed circle of standing stones, approximately 100 feet in diameter, built into a shallow, perfectly smooth basin. The stones are a pale grey granite, exhibiting faint veins of quartz that shimmer subtly in direct sunlight.
-- Within the ring’s center sits a pool of water, perpetually clear and ice-cold, regardless of the season. Locals believe the water possesses restorative properties, though prolonged exposure induces vivid, often unsettling, dreams.
-- An ancient, weathered wooden shrine, dedicated to a forgotten deity of love and loss, is erected at the ring's easternmost point. It contains a single, tarnished silver locket filled with a lock of dark hair.
+- Within [[The Ring|the ring]]’s center sits a pool of water, perpetually clear and ice-cold, regardless of the season. Locals believe the water possesses restorative properties, though prolonged exposure induces vivid, often unsettling, dreams.
+- An ancient, weathered wooden shrine, dedicated to a forgotten deity of love and loss, is erected at [[The Ring|the ring]]'s easternmost point. It contains a single, tarnished silver locket filled with a lock of dark hair.
 
 ## Additional POI 1: Whisperwind Hollow
 - A small, sheltered valley nestled against the hex’s western edge, known for constant, mournful winds that seem to carry whispered voices.

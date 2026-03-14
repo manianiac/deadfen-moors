@@ -9,7 +9,7 @@ tags: [hex/E-3, terrain/forest]
 
 
 ## Main POI: The Silver Head
-- The Silver Head is a weathered, partially collapsed stone structure resembling a human skull, approximately 30 feet tall and adorned with intricate silver filigree – the source of its name.  Rainwater perpetually trickles down its eye sockets and from the gaps in the crumbling roof.
+- [[The Silver Head]] is a weathered, partially collapsed stone structure resembling a human skull, approximately 30 feet tall and adorned with intricate silver filigree – the source of its name.  Rainwater perpetually trickles down its eye sockets and from the gaps in the crumbling roof.
 -  A small, stagnant pool, known as the ‘Silent Mire’, lies at the base of the skull, fed by subterranean springs. The water is unnaturally dark and reflects the silver of the structure, often creating a disconcerting optical illusion.
 -  Local folklore claims the structure was built by a long-dead druid king, guarding a powerful artifact – a shard of a fallen star – said to grant visions and control over the forest's growth.  Recent signs suggest a renewed interest in the site.
 

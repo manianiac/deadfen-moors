@@ -9,7 +9,7 @@ tags: [hex/J-4, terrain/forest]
 
 
 ## Main POI: The Stalward Water
-- The Stalward Water is a naturally formed amphitheater carved into the base of a sandstone cliff face. Water perpetually flows down the cliff, creating a constant, audible waterfall that gives the location its name. The water collects in a deep, dark pool at the bottom, fed by numerous smaller streams originating from higher in the hex.
+- [[The Stalward Water]] is a naturally formed amphitheater carved into the base of a sandstone cliff face. Water perpetually flows down the cliff, creating a constant, audible waterfall that gives the location its name. The water collects in a deep, dark pool at the bottom, fed by numerous smaller streams originating from higher in the hex.
 - The amphitheater’s walls are covered in phosphorescent moss, brightest at night, creating an eerie glow within the pool and around the water’s edge. The moss is believed to possess minor healing properties.
 - A partially submerged stone structure, resembling a ruined shrine, rests within the pool’s deepest section. Carvings depicting serpentine figures are visible beneath the water’s surface, hinting at a forgotten religion.
 

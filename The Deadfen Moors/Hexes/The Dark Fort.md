@@ -9,7 +9,7 @@ tags: [hex/J-9, terrain/plains]
 
 
 ## Main POI: The Dark Fort
-- The Dark Fort is a crumbling stone structure, approximately 100 feet in height, constructed with dark grey basalt. Sections of the walls are missing, revealing a chaotic interior filled with collapsed archways and rubble.  The fort appears to have been hastily abandoned, with signs of a desperate struggle – scorch marks, broken weaponry, and scattered bones.
+- [[The Dark Fort]] is a crumbling stone structure, approximately 100 feet in height, constructed with dark grey basalt. Sections of the walls are missing, revealing a chaotic interior filled with collapsed archways and rubble.  The fort appears to have been hastily abandoned, with signs of a desperate struggle – scorch marks, broken weaponry, and scattered bones.
 - A perpetual, unnatural twilight seems to cling to the fort, regardless of the time of day. Local accounts claim this is due to a lingering magical darkness emanating from the central courtyard.  The air is noticeably colder and carries a faint scent of ozone.
 - Beneath the main structure, a series of rough-hewn steps descend into darkness, leading to a network of damp, unstable tunnels. These tunnels are largely unexplored and believed to be the source of the unsettling atmosphere.
 

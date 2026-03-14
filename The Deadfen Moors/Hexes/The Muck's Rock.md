@@ -21,5 +21,5 @@ tags: [hex/G-5, terrain/plains]
 
 ## Additional POI 2: Old Man Hemlock
 - A solitary, ancient hemlock tree stands approximately one mile south-east of the Rock, noticeably larger than surrounding trees.
-- The tree’s roots form a natural cave system, occasionally utilized by nomadic tribes for temporary shelter.
+- [[The Tree|The tree]]’s roots form a natural cave system, occasionally utilized by nomadic tribes for temporary shelter.
 - Strange carvings depicting stylized animal figures adorn the base of the trunk.

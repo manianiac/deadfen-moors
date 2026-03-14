@@ -9,9 +9,9 @@ tags: [hex/I-7, terrain/plains]
 
 
 ## Main POI: The Withered Death
-- The Withered Death is a circular stone structure, approximately 80 feet in diameter, constructed from gray, weathered granite. Its walls are covered in intricate, unsettling carvings depicting skeletal figures and scenes of decay. The central feature is a cracked, obsidian basin perpetually filled with a viscous, black liquid that emits a faint, sickly sweet odor.
+- [[The Withered Death]] is a circular stone structure, approximately 80 feet in diameter, constructed from gray, weathered granite. Its walls are covered in intricate, unsettling carvings depicting skeletal figures and scenes of decay. The central feature is a cracked, obsidian basin perpetually filled with a viscous, black liquid that emits a faint, sickly sweet odor.
 - The surrounding area, known as the Scarred Plains, is characterized by a persistent, unnatural stillness and a complete absence of plant life within a 100-foot radius of the structure. The soil is a fine, grey dust, and the air hangs heavy with a sense of oppressive melancholy.
-- Rumors persist of spectral guardians – remnants of those who perished within the structure – that attack intruders with chilling whispers and debilitating fear. Tracks of unnatural, clawed feet are frequently found leading away from the site.
+- [[Rumors]] persist of spectral guardians – remnants of those who perished within the structure – that attack intruders with chilling whispers and debilitating fear. Tracks of unnatural, clawed feet are frequently found leading away from the site.
 
 ## Additional POI 1: Whisperwind Ridge
 - A naturally formed ridge overlooking the hex, offering a vantage point and shelter from the wind.

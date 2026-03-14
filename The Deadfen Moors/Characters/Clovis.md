@@ -8,4 +8,4 @@ The last [[God-Kings|God-King]] of his specific bloodline, who viewed his isolat
 
 - **Religion:** [[The Anchorite Brotherhood]]
 - **Associated Locations**:
-  - [[G.13]] Den of King Clovis the Lonely
+  - [[G.13]] [[Den of King Clovis the Lonely]]

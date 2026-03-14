@@ -4,7 +4,7 @@ tags: [hex/K-12, terrain/forest]
 ---
 # Ditch of the Hidden Fire
 
-**Hex Label:** K.12
+**Hex Label:** [[Ditch of the Hidden Fire|K.12]]
 **Terrain Type:** Forest
 
 

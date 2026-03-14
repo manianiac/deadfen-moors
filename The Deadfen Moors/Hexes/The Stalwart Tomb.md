@@ -9,7 +9,7 @@ tags: [hex/L-6, terrain/forest]
 
 
 ## Main POI: The Stalwart Tomb
-- The Stalwart Tomb is a cyclopean stone structure, partially collapsed and overgrown with moss and tenacious vines, situated at the hex’s center. It’s constructed of a dark grey granite, exhibiting signs of ancient, powerful craftsmanship.
+- [[The Stalwart Tomb]] is a cyclopean stone structure, partially collapsed and overgrown with moss and tenacious vines, situated at the hex’s center. It’s constructed of a dark grey granite, exhibiting signs of ancient, powerful craftsmanship.
 -  Within the main chamber, a massive, intricately carved stone statue – a warrior depicted in full plate armor – dominates the space. The statue, known as ‘Stalwart’, is remarkably well-preserved, and a faint, metallic scent lingers in the air. 
 -  The surrounding forest floor is disturbed, showing evidence of countless attempts to excavate the tomb, largely unsuccessful due to collapsed sections and a pervasive, unsettling stillness. Numerous, partially buried skeletal remains, mostly humanoid, are scattered about.
 

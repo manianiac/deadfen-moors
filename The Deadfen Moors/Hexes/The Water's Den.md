@@ -16,11 +16,11 @@ tags: [hex/K-7, terrain/forest]
 
 
 ## Additional POI 1: Echoing Falls
-- A narrow waterfall cascades down a sheer cliff face approximately 1 mile north of the Den.
-- The falls produce a distinct, echoing resonance, said to carry whispers of the past.
--  A small, relatively flat area beneath the falls provides a sheltered fishing spot.
+- A narrow waterfall cascades down a sheer cliff face approximately 1 mile north of [[The Den|the Den]].
+- [[The Falls|The falls]] produce a distinct, echoing resonance, said to carry whispers of the past.
+-  A small, relatively flat area beneath [[The Falls|the falls]] provides a sheltered fishing spot.
 
 ## Additional POI 2:  The Twisted Root
 - A massive, ancient willow tree dominates the western edge of the hex, its branches gnarled and twisted into bizarre shapes.
-- The tree’s roots form a natural labyrinth beneath the surface, rumored to lead to forgotten caverns.
--  Rare luminescent fungi grow in abundance at the base of the tree, casting an eerie glow at night.
+- [[The Tree|The tree]]’s roots form a natural labyrinth beneath the surface, rumored to lead to forgotten caverns.
+-  Rare luminescent fungi grow in abundance at the base of [[The Tree|the tree]], casting an eerie glow at night.

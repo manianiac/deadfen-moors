@@ -4,12 +4,12 @@ tags: [hex/M-10, terrain/plains]
 ---
 # The Pit of Water
 
-**Hex Label:** M.10
+**Hex Label:** [[The Pit of Water|M.10]]
 **Terrain Type:** Plains
 
 
 ## Main POI: The Pit of Water
-- The Pit of Water is a naturally formed depression, approximately 100 feet deep and 300 feet wide, filled with unusually still, intensely blue water. The water’s surface is perpetually calm, reflecting the sky with unsettling clarity.
+- [[The Pit of Water]] is a naturally formed depression, approximately 100 feet deep and 300 feet wide, filled with unusually still, intensely blue water. The water’s surface is perpetually calm, reflecting the sky with unsettling clarity.
 - Scattered around the rim of the pit are the skeletal remains of several large, aquatic reptiles - primarily long-necked plesiosaurs and smaller, serpentine creatures - indicating a prolonged period of habitation by these beasts. Fossilized bones, partially submerged, are common.
 - A constant, low mist rises from the water’s surface, carrying a faint, metallic scent and occasionally producing strange, shimmering illusions, most often depicting fleeting images of drowning figures. 
 
